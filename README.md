@@ -8,3 +8,4 @@ Les fonctions les plus étudiées sont (Pasini et al., 2007; Sergeant et al., 20
 •	la flexibilité cognitive
 •	la planification
 L’inhibition correspond à la capacité de résister ou supprimer une réponse non pertinente au but visé (Simpson & Riggs, 2007).
+corriger une faute
